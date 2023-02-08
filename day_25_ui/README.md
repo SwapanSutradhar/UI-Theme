@@ -1,16 +1,3 @@
-# day_25_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI with Theme Provider
+![1](https://user-images.githubusercontent.com/124803980/217619949-b49fde38-0ba9-44b4-9326-69b002c9f57d.PNG)
+![2](https://user-images.githubusercontent.com/124803980/217619955-cd7793c2-f415-4a3c-b929-4eb02599bbeb.PNG)
